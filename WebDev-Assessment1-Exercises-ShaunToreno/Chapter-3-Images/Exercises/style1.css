@@ -1,0 +1,53 @@
+body{
+    border: 20px solid rgb(246, 128, 49);
+    background-color: rgb(253, 208, 126);
+    font-family: Verdana;
+}
+h1{
+    margin: auto;
+    padding: 10px;
+    text-align: center;
+    font-size: 300%;
+    
+}
+img{
+    margin-left:95px;
+    width: 350px;
+    height: 500px;
+    display: inline-block;
+    
+   
+}
+
+.filter1{
+    filter: grayscale(100%);
+}
+
+.filter2{
+    filter: hue-rotate(90deg);
+}
+
+.filter3{
+    filter: brightness(150%);
+}
+
+.p1{
+    margin-left: 100px;
+    margin-right: 100px;
+    font-weight: bold;
+    display: inline-block;
+}
+
+.p2{
+    margin-left: 250px;
+    margin-right: 100px;
+    font-weight: bold;
+    display: inline-block;
+}
+
+.p3{
+    margin-left: 170px;
+    margin-right: 100px;
+    font-weight: bold;
+    display: inline-block;
+}

@@ -1,0 +1,29 @@
+body {
+    margin: auto;                      
+    background-color: #75fec0cf;     
+}
+
+.videoloop {
+    display: flex;         
+    justify-content: center;    
+    align-items: center;       
+}
+
+video {
+    border-radius: 10px;
+    outline: solid 15px #45a47acf;
+    margin-top: 30px;
+    justify-content: center;
+    width: 888px;              
+    height: 500px;                
+}
+
+header{
+    background-color: #45a47acf;
+    border-radius: 30px;
+    margin-top: 20px;
+    margin-left: 500px;
+    font-family: Arial;
+    text-align: center;
+    width: 500px;
+}
